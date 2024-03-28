@@ -1,0 +1,39 @@
+.a {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Roboto;
+    color: #172540;
+}
+
+.b {
+    font-size: 52px;
+    font-family: Roboto;
+    font-weight: 900;
+}
+
+.btn {
+
+    border-radius: 15px;
+    background-color: #FB916C;
+    color: black;
+}
+
+.img {
+    width: 100%;
+    height: 450px;
+    mix-blend-mode: darken;
+}
+
+.d {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    color: #172540;
+}
+
+.p {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 22px;
+    color: #3A51CE;
+}
